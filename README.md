@@ -4,7 +4,7 @@
 - 🌱 Learning in public.
 - 💭 Currently learning about React!
 
-## About Me
+## About Me:
 - 🔭 I’m currently working on:
     Blog Application with React and Appwrite.
 - 🌱 I’m currently improving: React Skills.
@@ -22,10 +22,10 @@
 
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=panderonak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=panderonak&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
