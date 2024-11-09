@@ -1,4 +1,4 @@
-## Hi, I'm Ronak!
+# Hi, I'm Ronak!
 
 - 👨🏻‍💻 Software Engineer sharing about my journey and learnings in tech.
 - 🌱 Learning in public.
