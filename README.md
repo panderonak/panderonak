@@ -6,7 +6,7 @@
 
 ## About Me:
 - 🔭 I’m currently working on:
-    Blog Application with React and Appwrite.
+    Social Media Application with React.
 - 🌱 I’m currently improving: React Skills.
 - 👯 I’m looking to collaborate on: React Projects.
 - 💬 Ask me about: JavaScript, React, and any development questions.
