@@ -2,14 +2,14 @@
 
 - 👨🏻‍💻 Software Engineer sharing about my journey and learnings in tech.
 - 🌱 Learning in public.
-- 💭 Currently learning about React!
+- 💭 Currently learning about Backend Development!
 
 ## About Me:
 - 🔭 I’m currently working on:
-    Social Media Application with React.
-- 🌱 I’m currently improving: React Skills.
-- 👯 I’m looking to collaborate on: React Projects.
-- 💬 Ask me about: JavaScript, React, and any development questions.
+    Video Streaming Application with React, Express, MongoDB, etc.
+- 🌱 I’m currently improving:  Full-Stack Development Skills.
+- 👯 I’m looking to collaborate on: Full-Stack Projects.
+- 💬 Ask me about: JavaScript, React, and questions about Frontend or Backend Development.
 - ⚡ Fun fact: I love exploring everything about movies and anime—from fun facts to behind-the-scenes moments and the latest updates!
 
 ## 🌐 Socials:
