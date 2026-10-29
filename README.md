@@ -28,3 +28,5 @@ My focus is on building high-quality digital solutions, with a touch of design w
 <img width="280" alt="spin-bocchi-gif" src="https://github.com/user-attachments/assets/45b8491d-7673-47f3-88d8-9213a8a1b075" />
 
 <img width="280" alt="spinner-fern-gif" src="https://github.com/user-attachments/assets/2434ea2b-d716-4383-b6ce-1a7986fe57b7" />
+
+<img width="354" height="354" alt="bocchi-no-gif" src="https://github.com/user-attachments/assets/54eefb6d-9b40-4a83-b6f6-462178b1579c" />
